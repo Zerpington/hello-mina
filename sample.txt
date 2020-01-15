@@ -1,0 +1,3 @@
+ls
+what now?
+-bash
