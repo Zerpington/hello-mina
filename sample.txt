@@ -1,3 +1,1 @@
-ls
-what now?
--bash
+testing how to do stuff
